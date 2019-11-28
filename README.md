@@ -7,8 +7,5 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run aaa
+npm run serve
 ```
-
-dev test
-test
