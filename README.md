@@ -10,8 +10,9 @@ npm install
 npm run serve
 ```
 
-test test
+test dev test
+test dev test
 
-dev : 123456
+dev : abcdef
 
 pro : abcdef
